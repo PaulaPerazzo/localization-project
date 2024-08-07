@@ -3,3 +3,4 @@ meds_test.csv
 meds_train.csv
 
 env
+.venv
